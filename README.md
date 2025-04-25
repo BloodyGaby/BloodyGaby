@@ -1,7 +1,7 @@
-## Olá!
-<p><Me chamo gaby/gabs, pretendo postar muito aqui/p>  
+Olá!
+<p>Me chamo gaby/gabs, pretendo postar muito aqui</p>  
   <p align="center">
-  <img src="[https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif](https://i.pinimg.com/originals/51/ca/04/51ca04097929e5d9ea150b107b745c60.gif)" alt="gif" width="400" />
+  <img src="https://i.pinimg.com/originals/51/ca/04/51ca04097929e5d9ea150b107b745c60.gif" alt="gif" width="400" />
 </p>
 
 <!--
